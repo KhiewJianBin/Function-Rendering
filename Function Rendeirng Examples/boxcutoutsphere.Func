@@ -1,0 +1,13 @@
+mode 1
+definition "box = min(1-x,x+1,1-y,y+1,1-z,z+1);
+			sphere = 1.25^2-x^2-y^2-z^2;
+			return min(box,-sphere);"
+bboxSize 3 3 3
+bboxCenter 0 0 0
+bboxResolution 200 200 200
+diffuseColor 1 1 1
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

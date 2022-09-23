@@ -1,0 +1,12 @@
+mode 0
+definition "z=u/500*cos(u*pi/50);
+			x=u/500*sin(u*pi/50);
+			y=u/500;"
+parameters 0 500
+resolution 500
+diffuseColor 1 0 0
+SpecularColor 1 0 0
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

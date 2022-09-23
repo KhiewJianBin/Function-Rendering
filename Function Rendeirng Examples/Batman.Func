@@ -1,0 +1,12 @@
+mode 0
+definition "x = 0.1*(abs(u)/u * (0.3*abs(u) + 0.2 * abs(abs(u)-1) + 2.2 * abs(abs(u)-2) - 2.7 * abs(abs(u)-3) - 3*abs(abs(u)-5) + 3*abs(abs(u)-7) + 5*sin(pi/4*(abs(abs(u)-3)-abs(abs(u)-4)+1)) + (5/4) * (abs(abs(u)-4)-abs(abs(u)-5)-1)^3 - 5.3*cos((pi/2+asin(47/53)) * (abs(abs(u)-7)-abs(abs(u)-8)-1)/2)+2.8))  ;
+			y = 0.1*(3/2 * abs(abs(u)-1) - 3/2*abs(abs(u)-2) - 29/4*abs(abs(u)-4) +29/4*abs(abs(u)-5)+7/16*(abs(abs(u)-2)-abs(abs(u)-3)-1)^4+4.5*sin(pi/4*(abs(abs(u)-3)-abs(abs(u)-4)-1)) -3*sqrt(2)/5 * abs(abs(abs(u)-5)-abs(abs(u)-7))^(5/2) + 6.4*sin((pi/2+asin(47/53)) * (abs(abs(u)-7)-abs(abs(u)-8)+1/2) +asin(56/64)) + 4.95)  ;
+			z = 0;"
+parameters -8 8
+resolution 200 200 200
+diffuseColor 1 1 1
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

@@ -1,0 +1,12 @@
+mode 1
+definition "box = min(1-x,x+1,1-y,y+1,1-z,z+1);
+			return box;"
+bboxSize 3 7 5
+bboxCenter 0 0 1
+bboxResolution 100 100 100
+diffuseColor 1 1 1
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1

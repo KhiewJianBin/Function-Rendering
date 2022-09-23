@@ -1,0 +1,12 @@
+mode 0
+definition "x=((0.2+0.8*v)*cos(u*2*pi)+v)*sin(v*12*pi)+2;
+			y=(0.2+0.8*v)*sin(u*2*pi)+3*(v)+0.5;
+			z=((0.2+0.8*v)*cos(u*2*pi)+v)*cos(v*12*pi)+2;"
+parameters 0 1 0 1
+resolution 300 300
+diffuseColor 1 0.8 0.6
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 0.6
+Timecycle 1
+Timerange 0 1

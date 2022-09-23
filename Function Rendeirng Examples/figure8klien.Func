@@ -1,0 +1,13 @@
+mode 0
+definition "r = 3;
+			x=(r + cos(u/2) * sin(v) - sin(u/2)*sin(2*v))*cos(u);
+			y=(r + cos(u/2) * sin(v) - sin(u/2)*sin(2*v))*sin(u);
+			z=sin(u/2)*sin(v)+cos(u/2)*sin(2*v);"
+parameters 0 6.2831 0 6.2831 0 1
+resolution 30 30 30
+diffuseColor 1 1 1
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
