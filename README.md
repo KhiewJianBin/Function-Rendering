@@ -37,22 +37,25 @@
 3. For WebGL, Host website [Server](https://github.com/KhiewJianBin/Function-Rendering/tree/main/Function%20Rendering%20Web/Server) using NodeJS or other hosting platform.
 
 ## Notes
-### Other students have taken the project for their FYP and improved on it
 
-### Displaying curves and surfaces in Unity 3D system 2021
-Shape Explorer Application demo by Khan Naseer Ahmed
+## Other students have taken the project for their FYP and improved on it
+
+--------------------------
+
+### Shape Explorer Application demo by Khan Naseer Ahmed 2021
 <div align="left">
   <a href="https://www.youtube.com/watch?v=z-cHB8zvuO4"><img src="https://user-images.githubusercontent.com/5699978/192849153-24df8f43-095e-4e38-9a02-f82e33f47c2f.png" width="700" alt="IMAGE ALT TEXT"></a>
   
   <sub>Displaying curves and surfaces in Unity 3D system 2021</sub>
 </div>
 
-### Displaying curves and surfaces in Unity 3D system 2022
-Shape Explorer Trailer Video by Beh Wei Feng
+--------------------------
+
+### Shape Explorer Trailer Video by Beh Wei Feng 2022
 <div align="left">
   <a href="https://www.youtube.com/watch?v=shp8x9EUrsU"><img src="https://user-images.githubusercontent.com/5699978/192850053-80425525-aabd-4f81-93e0-6145c9fb0981.png" width="700" alt="IMAGE ALT TEXT"></a>
   
-  <sub>Displaying curves and surfaces in Unity 3D system 2021</sub>
+  <sub>Displaying curves and surfaces in Unity 3D system 2022</sub>
 </div>
 
 ## Dev Notes
