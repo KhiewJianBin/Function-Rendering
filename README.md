@@ -10,13 +10,12 @@
   ## Displaying curves and surfaces in Unity 3D system 2019
   Feature Trailer Video of the Project
   <div align="left">
-    <a href="https://www.youtube.com/watch?v=HhYB3Q0JnLI"><img src="https://user-images.githubusercontent.com/5699978/192848671-e3995a9c-dce2-4630-b0d9-2fee82469cd8.png" width="700" alt="IMAGE ALT TEXT"></a>
-    
-    <sub>Displaying curves and surfaces in Unity 3D system 2019</sub>
-    
-  </div>
+  <a href="https://www.youtube.com/watch?v=HhYB3Q0JnLI"><img src="https://user-images.githubusercontent.com/5699978/192848671-e3995a9c-dce2-4630-b0d9-2fee82469cd8.png" width="700" alt="IMAGE ALT TEXT"></a>
   
-  ## Adverticement Poster for Showcase
+  <sub>Displaying curves and surfaces in Unity 3D system 2019</sub>
+</div>
+  
+  ## Advertisement Poster
   <a href="https://github.com/KhiewJianBin/Function-Rendering/blob/main/Poster/Khiew%20Jian%20Bin_Displaying%20curves%20and%20surfaces%20in%20Unity%203D%20system_2019.pdf"><img src="https://user-images.githubusercontent.com/5699978/192856270-ce0111b8-b280-4aed-90f6-493517af3e13.png" width="700" alt="IMAGE ALT TEXT"></a>
 
 # Features
@@ -56,13 +55,12 @@ Shape Explorer Trailer Video by Beh Wei Feng
   <sub>Displaying curves and surfaces in Unity 3D system 2021</sub>
 </div>
 
-
 ## Dev Notes
 - Shapes by Parametric uses 
 - Shapes by implicit 
 - Input Validation is done by using Regex
 - To support some math symbols such as the exponent symbol "x^2", instead of a proper math expression parse, it uses Regex to convert to c# equivalent code
 
-
 ##TODO
 - Change Readme.MD to Github pages for better viewing experience
+- Add more exmaple images/gif
