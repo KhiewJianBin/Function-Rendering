@@ -1,4 +1,4 @@
-# Function-Rendering
+# Function-Rendering (Shape Explorer)
   Course Assignment Project in Nanyang Technological University
   
   An application to procedurally generate & visualize curves,surfaces,solid objects made using Parametric & Implicit function inputs.
